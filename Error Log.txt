@@ -1,0 +1,18 @@
+<-> Creating Window
+
+<-> Chosen front buffer format is available in fullscreen mode
+<-> Chosen back buffer format is available in windowed mode
+<-> Chosen back buffer format is available in fullscreen mode
+<-> Chosen depth format is available in windowed mode
+<-> Chosen depth format is available in fullscreen mode
+<-> Window class registered
+<-> Window Created
+<-> D3D device created
+<-> Window created successfully
+<-> Font created successfully
+<-> Direct3D Initiation Successful
+<-> Demo Initiation Successful
+
+<-> Window Destroyed
+<-> Window class unregistered
+<-> Exiting...
